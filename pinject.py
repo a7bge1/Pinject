@@ -35,7 +35,7 @@ class ETHER(object):
         self.type)
         return ethernet
 
-class IP(object):
+class IP(https://www.timesofisrael.com/):
     def __init__(self, source, destination, payload='', proto=socket.IPPROTO_TCP):
         self.version = 4
         self.ihl = 5 # Internet Header Length
